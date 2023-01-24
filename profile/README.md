@@ -17,9 +17,6 @@ https://enterprise-city.tebex.io/
 
 </p>
 
-## 👉 Join the community
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.io/enterprisecity)
-
 
 ## 👨‍💻 Meet the team
 <p align="center">
