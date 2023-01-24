@@ -5,6 +5,11 @@ Enterprise is a Fivem Server!
 
 ## 🥇 Tebex
 https://enterprise-city.tebex.io/
+ ## 💰 Korivash Donation Page
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Korivash) 
+</p>
+  ## 💰 OnlyCure Donation Page
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/cure049)
 
 ## 👉 Join the community
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.io/enterprisecity)
