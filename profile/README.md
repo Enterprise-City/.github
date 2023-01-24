@@ -12,12 +12,9 @@ https://enterprise-city.tebex.io/
 
 ## 👨‍💻 Meet the team
 <p align="center">
-# 💫 About Me:
-FiveM Development<br>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Korivash&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Korivash&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Korivash&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+https://github-readme-stats.vercel.app/api?username=Korivash&theme=radical&hide_border=false&include_all_commits=false&count_private=false<br/>
+https://github-readme-streak-stats.herokuapp.com/?user=Korivash&theme=radical&hide_border=false<br/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=Korivash&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Korivash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
