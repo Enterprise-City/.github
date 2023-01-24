@@ -39,8 +39,14 @@ https://enterprise-city.tebex.io/
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
-<p align="center">
-<a href=https://github.com/OnlyCure><img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=drdon36911"&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xstrongbeard&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xstrongbeard&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xstrongbeard&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 </p>
 <p align="center">
 <a href=https://github.com/OnlyCure><img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xstrongbeard"&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
