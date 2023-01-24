@@ -47,6 +47,4 @@ https://enterprise-city.tebex.io/
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</p>
-<p align="center">
-<a href=https://github.com/OnlyCure><img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xstrongbeard"&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+
