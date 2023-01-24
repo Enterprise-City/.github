@@ -8,8 +8,11 @@ https://enterprise-city.tebex.io/
  ## 💰 Korivash Donation Page
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Korivash) 
 </p>
+
   ## 💰 OnlyCure Donation Page
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/cure049)
+
+</p>
 
 ## 👉 Join the community
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.io/enterprisecity)
@@ -17,26 +20,6 @@ https://enterprise-city.tebex.io/
 
 ## 👨‍💻 Meet the team
 <p align="center">
-
-
-  ## 💰 Korivash Donation Page
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Korivash) 
-
-  
-
-</p>
-
-  ## 💰 OnlyCure Donation Page
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/cure049)
-
-  
-
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xstrongbeard&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xstrongbeard&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xstrongbeard&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
