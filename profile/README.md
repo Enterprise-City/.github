@@ -23,7 +23,7 @@ https://enterprise-city.tebex.io/
 
   
 
-</p>
+
 <p align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OnlyCure&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
