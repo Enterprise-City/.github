@@ -12,7 +12,7 @@ https://enterprise-city.tebex.io/
 
 ## 👨‍💻 Meet the team
 <p align="center">
-<a href=https://github.com/OnlyCure><img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Korivash"&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+<a href=https://github.com/Korivash><img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Korivash"&count_private=true&show_icons=true&title_color=12CCDF&text_color=ffffff&icon_color=12CCDF&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
 </p>
 <p align="center">
 <a href=https://github.com/OnlyCure><img width="420" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OnlyCure"&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
