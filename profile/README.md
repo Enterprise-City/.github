@@ -11,6 +11,7 @@ Enterprise is a Fivem Server!
 
 ## 👨‍💻 Meet the team
 <p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=korivash&show_icons=true&theme=transparent)
 
 ## 🥇 Tebex
 https://enterprise-city.tebex.io/
