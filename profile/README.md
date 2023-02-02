@@ -11,7 +11,7 @@ Enterprise is a Fivem Server!
 
 ## 👨‍💻 Meet the team
 <p align="center">
-![Korivash's GitHub stats]https://github-readme-stats.vercel.app/api?username=korivash&show_icons=true&theme=transparent
+https://github-readme-stats.vercel.app/api?username=korivash&show_icons=true&theme=transparent
 
 ## 🥇 Tebex
 https://enterprise-city.tebex.io/
