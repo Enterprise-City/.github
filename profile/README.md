@@ -26,7 +26,7 @@ Enterprise is a Fivem Server!
 ## 🥇 Tebex
 https://enterprise-city.tebex.io/
  ## 💰 Korivash Donation Page
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Korivash) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://ko-fi.com/koirvash) 
 </p>
 
   ## 💰 OnlyCure Donation Page
