@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/66293264/198508063-2513daad-4c7e-4b57-8fea-ae7f027e44df.png)
+![image](https://github.com/Enterprise-City/.github/assets/92138483/1264a081-7a15-4a11-b104-1b08e7593d7f.png)
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
