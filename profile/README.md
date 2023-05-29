@@ -1,10 +1,10 @@
-![image](https://github.com/Enterprise-City/.github/assets/92138483/1264a081-7a15-4a11-b104-1b08e7593d7f.png)
+![enterprise2](https://github.com/Enterprise-City/resources/assets/123425886/d647a532-4218-4677-b0c0-ea5bb1d9417d)
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 👋 About us
-Enterprise is a Fivem Server!
+Enterprise City is a Fivem Server!
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
