@@ -79,7 +79,7 @@ https://enterprise-city.tebex.io/
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 💰 Enterprise City Currently Does not accept dontations, if you wish to support us please use one of the developers personal website such as Ko-fi or Pateron.
+💰 Enterprise City Currently Does not accept dontations, if you wish to support us please use one of the developers personal website such as Ko-fi or Pateron.
 </p>
 
  
