@@ -1,67 +1,44 @@
-![enterprise2](https://github.com/Enterprise-City/resources/assets/123425886/d647a532-4218-4677-b0c0-ea5bb1d9417d)
+# Enterprise City FiveM
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+![Enterprise City](https://imgur.com/V04wcal.jpg)
 
-## 👋 About us
-Enterprise City is a Fivem Server!
+Welcome to **Enterprise City**, a premium FiveM roleplay experience designed for immersive gameplay, engaging stories, and a thriving community. Whether you're a seasoned roleplayer or just starting out, our city offers something for everyone.
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 🚀 About Us
+Enterprise City is a serious roleplay server built with a focus on **realism, economy, and player-driven interactions**. Our development team has carefully crafted a unique experience that ensures a balance between fun and realism. With custom scripts, detailed jobs, and an active player base, this is the city where your roleplay dreams come to life.
 
-## 👉 Join the community
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/epc)
+## 🎮 Features
+✅ **Whitelisted Jobs** – Join the **LSPD, EMS, DOJ, or other career paths** to enforce the law and keep the city running.
+✅ **Illegal Activities** – Take part in **heists, drug trades, gang wars**, and more.
+✅ **Real Estate & Businesses** – Buy and sell properties, run your own business, and become a tycoon.
+✅ **Custom Vehicles & Clothes** – A wide variety of **custom cars, liveries, and outfits** to make your character unique.
+✅ **Dynamic Economy** – A **player-driven economy** with stocks, crypto, and investments.
+✅ **Custom Housing & Interiors** – Own an apartment, penthouse, or even a mansion.
+✅ **Advanced Crime System** – A fully integrated **law enforcement and justice system**.
+✅ **Frequent Updates** – We are always adding **new features, content, and improvements**.
 
+## 📌 Getting Started
+### How to Join Enterprise City
+1. **Join our Discord** – [Click Here](https://discord.gg/rAxBhUQ4US)
+2. **Read the Rules** – Make sure you understand our server guidelines.
+3. **Apply for Whitelist (If Required)** – Follow the necessary steps in Discord.
+4. **Connect to the Server** – Once approved, hop in and start your journey!
 
+## 🎭 Roleplay Opportunities
+We encourage creative and immersive roleplay! Whether you want to be a **criminal mastermind, a dedicated cop, a thriving entrepreneur, or a social influencer**, Enterprise City gives you the tools to tell your story.
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 🔧 Development & Support
+We are constantly working on **new updates, optimizations, and custom scripts** to keep the city fresh. Our support team is always available to assist players with issues and feedback.
 
-## 🥇 Tebex
-https://enterprise-city.tebex.io/
+### 💡 Have a Suggestion?
+We value community feedback! Drop your ideas in our **suggestion channels** in Discord.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## 🌟 Join the Community
+Come be a part of one of the best FiveM roleplay experiences available! We look forward to seeing you in **Enterprise City**.
 
-<p align="center">
+🌍 **Discord:** [Enterprise City RP](https://discord.gg/rAxBhUQ4US)  
+🔧 **GitHub:** [Enterprise City Repo](#) *(https://github.com/Enterprise-City)*
 
-- **Languages**:
+---
 
-    ![Lua](https://img.shields.io/badge/lua-%3363BD.svg?style=for-the-badge&logo=LualogoColor=blue)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   
-
-<p align="center">
-
-- **Databases**:
-
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-    <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-
-
-<p align="center">
-
-- **Softwares and Tools**:
-    
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-
-<p align="center">
-
-
-
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
- 
-![](https://komarev.com/ghpvc/?username=enterprisecity&label=PROFILE+VIEWS)
-</a>
-</div>
+⚠️ *Enterprise City RP is a non-profit community-driven project. We are not affiliated with FiveM or Rockstar Games.*
