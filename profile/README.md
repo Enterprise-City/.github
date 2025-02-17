@@ -1,6 +1,6 @@
 # Enterprise City FiveM
 
-![Enterprise City](https://imgur.com/V04wcal.jpg)
+![Enterprise City](https://imgur.com/IOJ5sTC.jpg)
 
 Welcome to **Enterprise City**, a premium FiveM roleplay experience designed for immersive gameplay, engaging stories, and a thriving community. Whether you're a seasoned roleplayer or just starting out, our city offers something for everyone.
 
