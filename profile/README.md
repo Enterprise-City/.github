@@ -19,7 +19,7 @@ Enterprise City is a serious roleplay server built with a focus on **realism, ec
 
 ## 📌 Getting Started
 ### How to Join Enterprise City
-1. **Join our Discord** – [Click Here](https://discord.gg/rAxBhUQ4US)
+1. **Join our Discord** – [Click Here](https://discord.gg/EnterpriseCity)
 2. **Read the Rules** – Make sure you understand our server guidelines.
 3. **Apply for Whitelist (If Required)** – Follow the necessary steps in Discord.
 4. **Connect to the Server** – Once approved, hop in and start your journey!
